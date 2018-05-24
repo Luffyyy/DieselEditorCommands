@@ -1,0 +1,8 @@
+C:\Users\Daniel\source\repos\DieselEditorCommands\DieselEditorCommands\bin\Release\DieselEditorCommands.exe.config
+C:\Users\Daniel\source\repos\DieselEditorCommands\DieselEditorCommands\bin\Release\DieselEditorCommands.exe
+C:\Users\Daniel\source\repos\DieselEditorCommands\DieselEditorCommands\bin\Release\DieselEditorCommands.pdb
+C:\Users\Daniel\source\repos\DieselEditorCommands\DieselEditorCommands\bin\Release\DieselEngineFormats.dll
+C:\Users\Daniel\source\repos\DieselEditorCommands\DieselEditorCommands\bin\Release\DieselEngineFormats.pdb
+C:\Users\Daniel\source\repos\DieselEditorCommands\DieselEditorCommands\obj\Release\DieselEditorCommands.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DieselEditorCommands\DieselEditorCommands\obj\Release\DieselEditorCommands.exe
+C:\Users\Daniel\source\repos\DieselEditorCommands\DieselEditorCommands\obj\Release\DieselEditorCommands.pdb
